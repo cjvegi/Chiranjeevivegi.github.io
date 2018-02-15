@@ -578,13 +578,13 @@ h1.arrow span {
 }
 /* ==========================================================================About========================================================================== */
 .about-image {
-	max-height: 450px;
+	height: 450px;
 	-webkit-background-size:contain;
 	-moz-background-size:contain;
 	-o-background-size:contain;
 	background-size:contain;
 	background-repeat: no-repeat;
-	max-width: 100%;
+	width: 100%;
 }
 .color-bg {
 	background: #E04343;
@@ -685,7 +685,7 @@ i.respons {
 	height:100%;
 	box-shadow:inset -15px -11px 40px -6px rgba(0,0,0,0.1);
 	-moz-box-shadow:inset -15px -11px 40px -6px rgba(0,0,0,0.1);
-	-webkit-box-shadow:inset -15px -11px 40px -6px rgba(0,0,0,0.1);
+	-webkit-box-shadow:inset -15px -11px 40px -6px rgba(0,0,0,0.1); 
 	z-index:1;
 }
 .fluid-white {
