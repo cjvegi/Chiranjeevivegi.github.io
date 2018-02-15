@@ -578,12 +578,12 @@ h1.arrow span {
 }
 /* ==========================================================================About========================================================================== */
 .about-image {
-	height:400px;
-	-webkit-background-size:cover;
-	-moz-background-size:cover;
-	-o-background-size:cover;
-	background-size:cover;
-	width: 100%;
+	max-height:400px;
+	-webkit-background-size:contain;
+	-moz-background-size:contain;
+	-o-background-size:contain;
+	background-size:contain;
+	max-width: 100%;
 }
 .color-bg {
 	background: #E04343;
