@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-Repository containes required for my [website](http://www.chiranjeevivegi.com/)
+Repository containes required files for my [website](http://www.chiranjeevivegi.com/)
 
 
 
