@@ -1,6 +1,7 @@
 # Personal Portfolio
 
-Under Construction
+Repository containes required for my [website](http://www.chiranjeevivegi.com/)
+
 
 
 
